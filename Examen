@@ -1,0 +1,6 @@
+El hecho de que React sea declarativo quiere decir que:
+En pseudocódigo, decimos que ReactDOM.render recibe los siguientes argumentos:
+JSX es syntactic sugar para:
+¿Cuál es la diferencia entre <Navbar /> y Navbar?
+Hay ocasiones en las cuales hay un estado que tenemos que compartir con dos o más componentes. ¿A dónde debemos levantar ese estado?
+¿Cuál es el feature principal de un Switch?
